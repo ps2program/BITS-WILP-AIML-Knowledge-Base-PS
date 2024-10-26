@@ -11,5 +11,9 @@
 ## Question 4
 ![[Pasted image 20220806142324.png]]
 
+## Question 5
+![alt text](<../../../Assets/Pasted image 20210729214431.png>)
+![[Pasted image 20220806142324.png]]
+
 ---
 tags: [[!DatabaseDesignAndApplicationIndex]] [[QuestionPapers]]

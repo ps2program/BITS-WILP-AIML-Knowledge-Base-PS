@@ -2,7 +2,7 @@
 # mkdocs-material: https://squidfunk.github.io/mkdocs-material/
 # mkdocs: https://www.mkdocs.org/user-guide/configuration/
 
-site_name: My BITS WILP Knowledge Base
+site_name: My M.Tech Journey AIML BITS - 2024-2026
 theme:
   name: material
   logo: Assets/logo.png
