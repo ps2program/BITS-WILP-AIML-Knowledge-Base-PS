@@ -1,7 +1,7 @@
 
 # About Me 👨🏽‍💻
 
-I am Prahlad, a Sr. Software Engineer based in Bangalore, currently pursuing a master's program through BITS WILP. This Knowledge Base is hosted via [![GitHub](https://img.shields.io/badge/-Github_pages-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Akhilsudh/BITS-WILP-Knowledge-Base). If you're interested in contributing, check out the link above.
+I am Prahlad, a Sr. Software Engineer based in Pune, currently pursuing a master's program through BITS WILP. This Knowledge Base is hosted via [![GitHub](https://img.shields.io/badge/-Github_pages-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Akhilsudh/BITS-WILP-Knowledge-Base). If you're interested in contributing, check out the link above.
 
 ### My Online Presence
 

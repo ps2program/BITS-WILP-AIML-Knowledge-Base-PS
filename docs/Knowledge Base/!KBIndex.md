@@ -7,3 +7,4 @@ This page has links to important resources.
 | All Semesters Index   | [[!AllSemestersIndex]]   |
 | All Question Papers   | [[QuestionPapers]]       |
 | All Assignments       | [[Assignments]]          | 
+| Old Papers            | [[OldPapers]]            | 
