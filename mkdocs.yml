@@ -1,7 +1,3 @@
-# official tutorial 
-# mkdocs-material: https://squidfunk.github.io/mkdocs-material/
-# mkdocs: https://www.mkdocs.org/user-guide/configuration/
-
 site_name: My M.Tech Journey AIML BITS - 2024-2026
 theme:
   name: material
@@ -21,17 +17,15 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to light mode
-  #  favicon: attachment/portrait.png
   language: en
   features:
-    #- navigation.expand 
-    #- tabs 
+    - navigation.footer
 markdown_extensions: 
-  - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
-  - pymdownx.tabbed  # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/
-  - nl2br # newline-to-break 
+  - attr_list
+  - pymdownx.tabbed
+  - nl2br
   - toc:
-      permalink: '#' # heading anchor 
+      permalink: '#'
       slugify: !!python/name:pymdownx.slugs.uslugify
   - admonition
   - codehilite:
@@ -47,8 +41,6 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.critic
   - pymdownx.details
-  # - pymdownx.emoji:
-      # emoji_generator: !!python/name:pymdownx.emoji.to_png
   - pymdownx.inlinehilite
   - pymdownx.magiclink
   - pymdownx.mark
@@ -63,8 +55,7 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_div_format
 plugins:
   - search
-  - roamlinks 
-    #- autolinks 
+  - roamlinks
   - exclude:
       glob:
         - "*.tmp"
@@ -80,3 +71,6 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://unpkg.com/mermaid@7.1.2/dist/mermaid.min.js
+extra:
+  footer: "My M.Tech Journey AIML BITS - 2024-2026 | Author: Prahlad"
+  generator: false

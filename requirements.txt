@@ -1,5 +1,6 @@
 mkdocs==1.2.1
-mkdocs-material==7.1.10
+# mkdocs-material==7.1.10
+mkdocs-material
 mkdocs-roamlinks-plugin==0.1.3
 mkdocs-exclude==1.0.2
 jinja2==3.0.3
